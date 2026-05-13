@@ -1,13 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iZmZcr4l)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23135464)
 
-# project-yf367: How emotive are politicians?
-Repository for Yasmin Fox (yf367)'s D200 Machine Learning In Economics Project.
-* Name: Yasmin Fox
-* CRSID: yf367
-* Project Title: How emotive are politicians?
-* Description:
+# How emotive are politicians?
 This project analyses the emotiveness of UK politicians relative to civil servants, by applying the pre-trained model from Gennaro & Ash (2022) to UK government department annual reports and accounts forewords.
+
+(NB: This work was originally submitted as part of an assessment for the MPhil module D200.)
 
 ## Set-Up Instructions
 To set up the repo, run the following commands.
@@ -45,8 +42,8 @@ deactivate
 
 ## Project slides and report
 The project slides and report are saved in the repository under:
-* Slides: D200_Slides_yf367.ppt
-* Report: D200_Report_yf367.pdf
+* Slides: politicians_emotions_slides.pptx
+* Report: politicians_emotions_report.pdf
 
 ## Cloning the repo and Git LFS
 Due to the large sizes of the pre-trained model files, Git Large File Storage was used to upload the repository contents onto GitHub. Therefore, when replicating the code, the repository must be cloned to run. Downloading the repository as a .zip file will not download the PDFs or model files in a usable manner due to the way Git LFS handles these files.
